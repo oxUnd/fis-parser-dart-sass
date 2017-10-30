@@ -32,5 +32,15 @@ fis.match('*.{sass,scss}', {
 ## OPTIONS
 
 - the same API as [node-sass's](https://github.com/sass/node-sass#options)
-    - includePaths
+    - `includePaths`
         - params type is `Array`
+        - eg:
+
+            ```js
+            /* OPTIONS */
+            {
+                includePaths: [
+                    __dirname + '/xxxx/base'
+                ],
+            }
+            ```
