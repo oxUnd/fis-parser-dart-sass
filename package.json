@@ -1,0 +1,27 @@
+{
+  "name": "fis-parser-dart-sass",
+  "version": "1.0.0",
+  "description": "A Sass Parser Plugin for F.I.S with Dart-Sass",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangshouding/fis-parser-dart-sass.git"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "sass"
+  ],
+  "author": "fansekey@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiangshouding/fis-parser-dart-sass/issues"
+  },
+  "homepage": "https://github.com/xiangshouding/fis-parser-dart-sass#readme",
+  "dependencies": {
+    "sass": "^1.0.0-beta.2"
+  }
+}
